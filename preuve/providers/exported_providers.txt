@@ -1,0 +1,5 @@
+
+Authority: jakhar.aseem.diva.provider.notesprovider
+  Read Permission: null
+  Write Permission: null
+  Content Provider: jakhar.aseem.diva.NotesProvider

@@ -1,0 +1,4 @@
+Package: jakhar.aseem.diva
+  jakhar.aseem.diva.MainActivity (Permission: null)
+  jakhar.aseem.diva.APICredsActivity (Permission: null)
+  jakhar.aseem.diva.APICreds2Activity (Permission: null)

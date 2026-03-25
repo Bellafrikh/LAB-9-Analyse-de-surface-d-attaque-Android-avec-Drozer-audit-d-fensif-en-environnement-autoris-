@@ -1,0 +1,6 @@
+﻿ID,Composant,Vulnérabilité,Confiance,Sévérité,Impact,Recommandation,Statut
+V1,NotesProvider,URI accessibles sans permission,Élevée,Critique,Fuite de données utilisateur,Définir exported=false,À corriger
+V2,APICredsActivity,Activité exportée sans protection,Élevée,Élevée,Fuite d'identifiants API,Supprimer l'intent-filter,À corriger
+V3,APICreds2Activity,Activité exportée sans protection,Élevée,Élevée,Fuite d'identifiants API,Supprimer l'intent-filter,À corriger
+V4,AndroidManifest,Application en mode Debuggable,Élevée,Moyenne,Analyse dynamique facilitée,Passer debuggable à false,À corriger
+V5,MainActivity,Composant exporté par défaut,Élevée,Faible,Point d'entrée standard,Aucune (nécessaire),Accepté

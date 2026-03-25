@@ -1,0 +1,11 @@
+ run app.provider.query content://jakhar.aseem.diva.provider.notesprovider/notes
+
+Attempting to run shell module
+
+| _id | title    | note                                 |
+| 5   | Exercise | Alternate days running               |
+| 4   | Expense  | Spent too much on home theater       |
+| 6   | Weekend  | b333333333333r                       |
+| 3   | holiday  | Either Goa or Amsterdam              |
+| 2   | home     | Buy toys for baby, Order dinner      |
+| 1   | office   | 10 Meetings. 5 Calls. Lunch with CEO |
